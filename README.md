@@ -1,3 +1,4 @@
-# Orchestrive
+# Zoom
 
-Orchestrive using NodeJS, WebRTC, WebSockets
+`줌 클론코딩`
+Zoom Clone using NodeJS, WebRTC and WebSockets
